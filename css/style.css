@@ -500,7 +500,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     position: relative;
 	background-color:#111111;
 	z-index:1;
-    background-image: url(../images/content/bg01.jpg);
+    background-image: url(../images/content/bg02.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -4883,10 +4883,10 @@ li.ast_search , li.ast_cart{
 /*--- palmistry page css end ---*/
 /*--- video style2 css start ---*/
 .ast_videotour_wrapper.ast_video_style2{
-	background-image:linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg01.jpg);
-	background-image:-webkit-linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg01.jpg;
-	background-image:-ms-linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg01.jpg);
-	background-image:-moz-linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg01.jpg);
+	background-image:linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg02.jpg);
+	background-image:-webkit-linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg02.jpg;
+	background-image:-ms-linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg02.jpg);
+	background-image:-moz-linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../images/content/bg02.jpg);
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	background-size:cover;
