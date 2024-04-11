@@ -828,7 +828,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	float:left;
 	width:100%;
 	margin:0px 0px 10px 0px;
-	text-transform:capitalize;
+	text-transform:none;
 }
 .ast_heading h1 span{
 	color: #003f37;
